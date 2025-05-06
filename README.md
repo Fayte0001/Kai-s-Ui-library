@@ -336,5 +336,3 @@ UICornerStrokeLib.ApplyStyle(customButton.Button, {
     GradientRotation = 45
 })
 ```
-
-This documentation covers all the main components and features of the UI Corner Stroke Library. The system is designed to be flexible and customizable while providing a modern, polished look out of the box.
